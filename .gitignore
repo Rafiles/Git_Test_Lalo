@@ -1,3 +1,2 @@
 venv_lalo
-/data/raw/*
 !/data/raw.dvc
